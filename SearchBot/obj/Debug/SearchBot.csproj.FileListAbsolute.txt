@@ -1,0 +1,55 @@
+D:\Study\Projects\SearchBot\SearchBot\bin\Bot Application1.dll.config
+D:\Study\Projects\SearchBot\SearchBot\bin\Bot Application1.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Bot Application1.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\Autofac.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Chronic.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.Core.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.Customsearch.v1.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.PlatformServices.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\log4net.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.Bot.Builder.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.Bot.Connector.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Newtonsoft.Json.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\System.Net.Http.Formatting.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\System.Web.Http.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\System.Web.Http.WebHost.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Zlib.Portable.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\Autofac.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.Core.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.Core.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.Customsearch.v1.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.Customsearch.v1.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.PlatformServices.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\Google.Apis.PlatformServices.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\log4net.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.Bot.Builder.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.Bot.Connector.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Newtonsoft.Json.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Study\Projects\SearchBot\SearchBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\System.Net.Http.Formatting.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\System.Web.Http.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\System.Web.Http.WebHost.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\Zlib.Portable.xml
+D:\Study\Projects\SearchBot\SearchBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Study\Projects\SearchBot\SearchBot\obj\Debug\SearchBot.csprojResolveAssemblyReference.cache
+D:\Study\Projects\SearchBot\SearchBot\obj\Debug\Bot Application1.dll
+D:\Study\Projects\SearchBot\SearchBot\obj\Debug\Bot Application1.pdb
